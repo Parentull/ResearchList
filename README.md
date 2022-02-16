@@ -59,6 +59,7 @@
 ## From the news
 1. [Mom let someone rape her 5-year-old daughter for money before child’s death: court documents](https://www.pennlive.com/nation-world/2021/12/mom-let-someone-rape-her-5-year-old-daughter-for-money-before-childs-death-court-documents.html)
 2. [‘Dig Arthur’s Grave’: Dad Says Girlfriend Gaslit & Brainwashed Him Into Abusing Slain 6-year-old Son](https://www.crimeonline.com/2021/11/22/dig-arthurs-grave-dad-says-girlfriend-gaslit-brainwashed-him-into-abusing-slain-6-year-old-son/)
+3. [Northamptonshire mum jailed for killing baby son left alone in bath](https://www.bbc.co.uk/news/uk-england-northamptonshire-56860846)
 
 ### Questionable Academic
 1. [False Rape Allegations](https://archive.org/details/FalseRapeAllegations/page/n3/mode/2up)
