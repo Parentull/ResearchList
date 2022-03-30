@@ -1,1 +1,2 @@
 1. [Civil Service Diversity and Inclusion Strategy: 2022 to 2025](https://www.gov.uk/government/publications/civil-service-diversity-and-inclusion-strategy-2022-to-2025)
+2. [Islams Sexual Enslavement of White Women](https://www.amren.com/news/2020/09/in-pictures-islams-sexual-enslavement-of-white-women/)
