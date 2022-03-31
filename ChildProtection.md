@@ -9,7 +9,7 @@
 6. [Hidden men: learning from case reviews](https://learning.nspcc.org.uk/media/1341/learning-from-case-reviews_hidden-men.pdf)
 7. [Cafcass Launches the Together with Children and Families framework](https://www.cafcass.gov.uk/2021/09/06/cafcass-launches-the-together-with-children-and-families-framework/)
 8. [Cafcass trials new process for child arrangements](https://www.cafcass.gov.uk/2022/03/08/cafcass-trials-new-process-for-child-arrangements/)
-
+9. [Child Sexual Abuse and good practice for social workers](https://www.iriss.org.uk/resources/outlines/child-sexual-abuse-and-good-practice-social-workers)
 ## Domestic Abuse/Violence <a name="#domesticabuse"></a>
 1. [Domestic Abuse: Draft Statutory Guidance Framework](https://www.gov.uk/government/consultations/domestic-abuse-act-statutory-guidance/domestic-abuse-draft-statutory-guidance-framework#annex-a--support-available-for-victims)
 2. [Government Domestic Abuse / Violence Legal Aid Site](https://www.gov.uk/legal-aid/domestic-abuse-or-violence)

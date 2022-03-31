@@ -34,7 +34,9 @@
 33. [W (Children) [2014] EWFC B215](http://www.thecustodyminefield.com/flapp/caselaw/2014-ewfc-B215.pdf)
 34. [F (Children) [2015] EWCA Civ 1315](http://www.thecustodyminefield.com/flapp/caselaw/2015-ewca-civ-1315.pdf)
 35. [Re: Helen (A Child)](https://www.bailii.org/ew/cases/EWFC/OJ/2021/B91.html)
-
+36. [Discrimination - Your rights](https://www.gov.uk/discrimination-your-rights)
+37. [Sexual Offences Act 2003](https://www.legislation.gov.uk/ukpga/2003/42)
+38. [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents)
 ## Procedure
 1. [Family Procedure Rules](https://www.justice.gov.uk/courts/procedure-rules/family/rules_pd_menu)
 ## Law Review
@@ -42,4 +44,10 @@
 2. [Disqualified From Justice: Legal Aid Means Test Report](https://www.lawsociety.org.uk/support-services/research-trends/legal-aid-means-test-report/)
 ## From Parliament
 1. [The Domestic Violence Gateway](https://publications.parliament.uk/pa/cm201415/cmselect/cmjust/311/31107.htm)
+2. [Stalking Protection Bill (HC Bill 247)](https://publications.parliament.uk/pa/bills/cbill/2017-2019/0247/cbill_2017-20190247_en_2.htm#pb1-l1g1)
+3. [Serious Crime Act 2015 - Child Cruelty Offence](https://www.legislation.gov.uk/ukpga/2015/9/part/5/enacted)
 
+## Citizens Advice
+1. [Taking legal action about human rights](https://www.citizensadvice.org.uk/law-and-courts/civil-rights/human-rights/taking-legal-action-about-human-rights/)
+## Crowdfunding / Costs
+1. [Crowdjustice](https://www.crowdjustice.com/how-it-works/)
