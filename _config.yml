@@ -1,0 +1,13 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - ChildProtection.md
+  - Data.md
+  - Diversity_And_Inclusion.md
+  - Legal.md
+  - Policing.md
+  - Socioeconomic.md
