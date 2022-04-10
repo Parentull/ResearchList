@@ -11,3 +11,4 @@ include:
   - Legal.md
   - Policing.md
   - Socioeconomic.md
+theme: jekyll-theme-slate
