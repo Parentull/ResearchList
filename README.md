@@ -69,7 +69,7 @@ Contributions are welcome. This can be done by forking this repository and makin
 45. [They do not speak for us: Feminists hit back at trans-exclusionary activists in open letter](https://www.thenational.scot/news/17472564.not-speak-us-feminists-hit-back-trans-exclusionary-activists-open-letter/)
 46. [Hundreds of computers removed from Jobcentres as online-only Universal Credit rolled out](https://www.independent.co.uk/news/uk/home-news/computers-jobcentre-universal-credit-internet-access-benefits-online-jobseekers-a8803971.html?amp=)
 47. [Multi-millionaire San Francisco Giants CEO Larry Baer pulls his wife off a chair and drags her to the ground in a public park as she screams 'oh my god, help'](https://www.dailymail.co.uk/news/article-6762657/Shocking-moment-multi-millionaire-San-Francisco-Giants-CEO-Larry-Baer-drags-wife-ground.html)
-
+48. [Inside the barrage of hate Jessica Dixon inflicted on her boyfriend who killed himself after receiving texts so disturbing they left a magistrate 'feeling sick' - and how she almost got away with it](https://www.dailymail.co.uk/news/melbourne/article-10694241/Jessica-Dixon-repeatedly-urged-boyfriend-Tyrone-Reith-Myers-kill-did.html#l1tiwbcf1t8jw7188hp)
 ### Questionable Academic <a name="questionableacademic"></a>
 1. [False Rape Allegations](https://archive.org/details/FalseRapeAllegations/page/n3/mode/2up)
 2. [False Allegations of Rape: The true extent remains unknown](https://www.centreformalepsychology.com/male-psychology-magazine-listings/false-allegations-of-rape-the-true-extent-remains-unknown)
