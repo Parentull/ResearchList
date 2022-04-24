@@ -10,6 +10,7 @@
 7. [Cafcass Launches the Together with Children and Families framework](https://www.cafcass.gov.uk/2021/09/06/cafcass-launches-the-together-with-children-and-families-framework/)
 8. [Cafcass trials new process for child arrangements](https://www.cafcass.gov.uk/2022/03/08/cafcass-trials-new-process-for-child-arrangements/)
 9. [Child Sexual Abuse and good practice for social workers](https://www.iriss.org.uk/resources/outlines/child-sexual-abuse-and-good-practice-social-workers)
+10. [Cafcass is taking steps to improve its practice in public family law proceedings](https://www.cafcass.gov.uk/2022/04/04/cafcass-is-taking-steps-to-improve-its-practice-in-public-family-law-proceedings/)
 ## Domestic Abuse/Violence <a name="#domesticabuse"></a>
 1. [Domestic Abuse: Draft Statutory Guidance Framework](https://www.gov.uk/government/consultations/domestic-abuse-act-statutory-guidance/domestic-abuse-draft-statutory-guidance-framework#annex-a--support-available-for-victims)
 2. [Government Domestic Abuse / Violence Legal Aid Site](https://www.gov.uk/legal-aid/domestic-abuse-or-violence)
@@ -22,3 +23,5 @@
 5. [Data Breaches: Guidance for individuals and families](https://www.ncsc.gov.uk/guidance/data-breaches)
 6. [New Domestic Abuse service for men opens in Kent](https://www.charitytoday.co.uk/new-domestic-abuse-service-for-men-opens-in-kent/)
 7. [Subtly Controlling Behaviour](https://www.abuseandrelationships.org/Content/Behaviors/subtle_control.html)
+8. [Denied justice: How the legal aid means test prevents victims of domestic abuse from accessing justice and rebuilding their lives](https://survivingeconomicabuse.org/wp-content/uploads/2021/10/Denied-justice-October-2021.pdf)
+9. [Legal Aid Means Test Review](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1060484/legal-aid-means-test-review.pdf)

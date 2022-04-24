@@ -85,7 +85,15 @@ Contributions are welcome. This can be done by forking this repository and makin
 61. [Woman from Essex given suspended jail sentence for killing her mum in 'truly tragic case'](https://www.itv.com/news/anglia/2022-04-04/daughter-gets-suspended-jail-term-for-killing-mum-in-truly-tragic-case)
 62. [Father whose dog killed his 12-day-old baby after inflicting up to 40 puncture wounds is jailed](https://www.independent.co.uk/news/uk/crime/dog-attack-doncaster-baby-death-b2047929.html)
 63. [Homelessness disproportionately affects single mothers, research reveals](https://www.theguardian.com/society/2021/dec/26/homelessness-disproportionately-affects-single-mothers-research-reveals)
-
+64. [We’re ready to make Britain the safest place for children online](https://www.telegraph.co.uk/opinion/2022/04/18/ready-make-britain-safest-place-children-online/)
+65. [Male domestic abuse victims seen as 'under the thumb'](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-61150257)
+66. [Thousands of barristers take action over legal aid](https://www.bbc.co.uk/news/uk-61062627)
+67. [Mum leads police on 90mph chase with two children unsecured in back seat](https://www.walesonline.co.uk/news/uk-news/mum-lead-police-90mph-chase-23687919)
+68. [Man jailed for threatening to kill social worker and petrol bomb her office](https://www.mysocialworknews.com/article/man-jailed-for-threatening-to-kill-social-worker-and-petrol-bomb-her-office)
+69. [Woman, 19, cleared of killing man with one punch after he smashed head on kerb](https://www.mirror.co.uk/news/uk-news/woman-19-cleared-killing-man-26627516)
+70. [Woman sentenced for perverting the course of justice - Stratford](https://www.stratford-herald.com/news/woman-sentenced-for-perverting-the-course-of-justice-stratford-9132789/)
+71. [Leicester survivors assure male domestic abuse victims there's no shame in seeking help ](https://www.itv.com/news/central/2022-03-15/i-didnt-think-youd-believe-me-men-tell-of-feeling-ashamed-of-being-abused)
+72. [Don't include personal attacks in statements, family judge urges solicitors](https://www.lawgazette.co.uk/news/dont-include-personal-attacks-in-statements-family-judge-urges-solicitors/5111957.article)
 ### Questionable Academic <a name="questionableacademic"></a>
 1. [False Rape Allegations](https://archive.org/details/FalseRapeAllegations/page/n3/mode/2up)
 2. [False Allegations of Rape: The true extent remains unknown](https://www.centreformalepsychology.com/male-psychology-magazine-listings/false-allegations-of-rape-the-true-extent-remains-unknown)
@@ -96,6 +104,7 @@ Contributions are welcome. This can be done by forking this repository and makin
 7. [The gender gap is a feminist myth: it is illegal to pay less based on gender](https://womenagainstfeminismuk.wordpress.com/2017/12/22/the-gender-gap-is-a-feminist-myth-it-is-illegal-to-pay-less-based-on-gender/)
 8. [The feminist political party: Labour bans white straight men from equalities conference](https://womenagainstfeminismuk.wordpress.com/2018/02/12/the-feminist-political-party-labour-bans-white-straight-men-from-equalities-conference/)
 9. [Feminist Lunacy: Feminist “Expert” claims parents should ask babies for permission before changing diaper](https://womenagainstfeminismuk.wordpress.com/2018/05/12/feminist-lunacy-feminist-expert-claims-parents-should-ask-babies-for-permission-before-changing-diaper/)
+10. [Police reveal false allegations driving the domestic violence industry](https://www.bettinaarndt.com.au/news/police-reveal-false-allegations-driving-the-domestic-violence-industry/)
 ### Women's Aid <a name="womensaid"></a>
 1. [Women's Aid Launch Petition to require funding for gender specific domestic abuse services](https://www.womensaid.org.uk/international-womens-day-womens-aid-launches-petition-to-require-local-authorities-to-fund-womens-domestic-abuse-services/)
     - 1.1. [The Petition](https://petition.parliament.uk/petitions/577718)
